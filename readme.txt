@@ -31,4 +31,5 @@ Note: The width is set as long you dont reload the browser.
 == Changelog ==
 
 = 1.0 =
+
 * Initial public release
